@@ -1,9 +1,9 @@
 # where-image2
-Code used by the paper "Where to put the Image in an Image Caption Generator" (still to be published), which was accepted for Natural Language Engineering Special Issue on Language for Images. Code for previous version of paper (prior to review) is still available here https://github.com/mtanti/where-image.
+Code used by the paper "[Where to put the Image in an Image Caption Generator](https://www.cambridge.org/core/journals/natural-language-engineering/article/where-to-put-the-image-in-an-image-caption-generator/A5B0ACFFE8E4AEAA5840DC61F93153F3)", which was accepted for Natural Language Engineering Special Issue on Language for Images. Code for previous version of paper (prior to review) is still available here https://github.com/mtanti/where-image.
 
 This paper is a comparative evaluation of different ways to incorporate an image into an image caption generator neural network.
 
-Works on both python 2 and python 3 (except for the MSCOCO evaluation toolkit which requires python 2).
+Works on both Python 2 and Python 3 (except for the MSCOCO evaluation toolkit which requires python 2).
 
 ## Dependencies
 
